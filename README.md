@@ -52,8 +52,8 @@ Using the same key again regenerates the same key stream, reversing the process.
 1. Clone the repo
 
 ```bash
-git clone https://github.com/Sai-pavan-05/image-encryption-tool.git
-cd image-encryption-tool
+git clone https://github.com/Sai-pavan-05/PRODIGY_CS_02.git
+cd PRODIGY_CS_02
 ````
 
 2. Install dependencies
@@ -100,9 +100,10 @@ Key functions in `ImgEnc.py`:
 
 ---
 
-📸 Demo Screenshot (Optional)
+📸 Demo Screenshot
 
-![image alt]()
+![image alt](https://github.com/Sai-pavan-05/PRODIGY_CS_02/blob/main/Output-1.png)
+![image alt](https://github.com/Sai-pavan-05/PRODIGY_CS_02/blob/main/Output-2.png)
 
 ---
 
